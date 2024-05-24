@@ -3,51 +3,57 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01Exercicio01", "Exercicio01\01Exercicio01.csproj", "{5A39CE2A-B68C-4485-8971-382F7F188C57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto01Exercicio01", "Exercicio01\Projeto01Exercicio01.csproj", "{5A39CE2A-B68C-4485-8971-382F7F188C57}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02LadosDoTriangulo", "LadosDoTriangulo\02LadosDoTriangulo.csproj", "{F861FDB3-3A39-4728-9663-62B1E8F4FCF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto02LadosDoTriangulo", "LadosDoTriangulo\Projeto02LadosDoTriangulo.csproj", "{F861FDB3-3A39-4728-9663-62B1E8F4FCF2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03Exercicio02", "Exercicio02\03Exercicio02.csproj", "{7BACE919-0737-45BD-93BD-2F259C0BE453}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto03Exercicio02", "Exercicio02\Projeto03Exercicio02.csproj", "{7BACE919-0737-45BD-93BD-2F259C0BE453}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04Exercicio03", "04Exercicio03\04Exercicio03.csproj", "{78DE2C8F-EC25-4315-B73F-53CDD96CF238}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto04Exercicio03", "04Exercicio03\Projeto04Exercicio03.csproj", "{78DE2C8F-EC25-4315-B73F-53CDD96CF238}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05Exercicio04", "05Exercicio04\05Exercicio04.csproj", "{57429C3E-043B-4F75-BB1E-ACB2F4ABA8D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto05Exercicio04", "05Exercicio04\Projeto05Exercicio04.csproj", "{57429C3E-043B-4F75-BB1E-ACB2F4ABA8D1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00Default", "00Default\00Default.csproj", "{73851FDD-8C45-4C18-AFB4-67C41A5E203E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project00Default", "00Default\Project00Default.csproj", "{73851FDD-8C45-4C18-AFB4-67C41A5E203E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06DadosDoCirculoV1", "06DadosDoCirculo\06DadosDoCirculoV1.csproj", "{7500923E-3997-4D3E-A066-D6BF7710ED0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto06DadosDoCirculoV1", "06DadosDoCirculo\Projeto06DadosDoCirculoV1.csproj", "{7500923E-3997-4D3E-A066-D6BF7710ED0A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07Produto", "07Produto\07Produto.csproj", "{C45B0DD8-8F6F-4188-BEEA-E1D4082C57A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto07Produto", "07Produto\Projeto07Produto.csproj", "{C45B0DD8-8F6F-4188-BEEA-E1D4082C57A9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08ProdutoThis", "08ProdutoThis\08ProdutoThis.csproj", "{47AEBBD4-8C91-4840-A570-289E2D7FD72B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto08ProdutoThis", "08ProdutoThis\Projeto08ProdutoThis.csproj", "{47AEBBD4-8C91-4840-A570-289E2D7FD72B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09Encapsulamento", "09Encapsulamento\09Encapsulamento.csproj", "{AC5EC9EC-2AB4-42A3-98DD-0D97BC035C2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto09Encapsulamento", "09Encapsulamento\Projeto09Encapsulamento.csproj", "{AC5EC9EC-2AB4-42A3-98DD-0D97BC035C2F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10Properties", "10Properties\10Properties.csproj", "{93C1B98A-F6B0-4A30-9335-107A145B9153}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto10Properties", "10Properties\Projeto10Properties.csproj", "{93C1B98A-F6B0-4A30-9335-107A145B9153}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11AutoProperties", "Auto Properties\11AutoProperties.csproj", "{E21836C2-F1D2-4B59-93D6-613C58C6BECB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto11AutoProperties", "Auto Properties\Projeto11AutoProperties.csproj", "{E21836C2-F1D2-4B59-93D6-613C58C6BECB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12Exercicio05", "12Exercicio05\12Exercicio05.csproj", "{A89209CC-8355-47F6-89D2-7683E3B05262}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto12Exercicio05", "12Exercicio05\Projeto12Exercicio05.csproj", "{A89209CC-8355-47F6-89D2-7683E3B05262}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13TiposDeVariaveis", "13TiposDeVariaveis\13TiposDeVariaveis.csproj", "{87E673DB-DCAF-447A-AD52-BF2B7BABB022}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto13TiposDeVariaveis", "13TiposDeVariaveis\Projeto13TiposDeVariaveis.csproj", "{87E673DB-DCAF-447A-AD52-BF2B7BABB022}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14Nullable", "14Nullable\14Nullable.csproj", "{DF3C8EBD-CD5A-4929-A8F1-6073F745D42D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto14Nullable", "14Nullable\Projeto14Nullable.csproj", "{DF3C8EBD-CD5A-4929-A8F1-6073F745D42D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15Exemplo01", "15Exemplo01\15Exemplo01.csproj", "{96DFB77C-C96A-4F62-ACB9-BD957A644449}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto15Exemplo01", "15Exemplo01\Projeto15Exemplo01.csproj", "{96DFB77C-C96A-4F62-ACB9-BD957A644449}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16Exemplo02", "16Exemplo02\16Exemplo02.csproj", "{A9CF3269-D3C3-409A-8D57-500E57355663}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto16Exemplo02", "16Exemplo02\Projeto16Exemplo02.csproj", "{A9CF3269-D3C3-409A-8D57-500E57355663}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17Exercicio05", "17Exercicio05\17Exercicio05.csproj", "{AC457627-9EA4-4AB7-8266-BC1B279D54D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto17Exercicio06", "17Exercicio05\Projeto17Exercicio06.csproj", "{AC457627-9EA4-4AB7-8266-BC1B279D54D1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18ModificadorDeParametrosParams", "18ModificadorDeParâmetrosParams\18ModificadorDeParametrosParams.csproj", "{AAFA04BD-B6BD-4CBF-BBD0-0FDBA12F69B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto18ModificadorDeParametrosParams", "18ModificadorDeParâmetrosParams\Projeto18ModificadorDeParametrosParams.csproj", "{AAFA04BD-B6BD-4CBF-BBD0-0FDBA12F69B5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19ModificadorDeParametrosRef", "19ModifadorDeParametrosRefEOut\19ModificadorDeParametrosRef.csproj", "{4E53B73B-2B17-490F-8821-CC4BACA08B6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto19ModificadorDeParametrosRef", "19ModifadorDeParametrosRefEOut\Projeto19ModificadorDeParametrosRef.csproj", "{4E53B73B-2B17-490F-8821-CC4BACA08B6E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20ModificadorDeParametrosOut", "20ModificadorDeParametrosOut\20ModificadorDeParametrosOut.csproj", "{482626EC-A477-4184-B00A-F7BC6AD7B7BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto20ModificadorDeParametrosOut", "20ModificadorDeParametrosOut\Projeto20ModificadorDeParametrosOut.csproj", "{482626EC-A477-4184-B00A-F7BC6AD7B7BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21ForEach", "21ForEach\21ForEach.csproj", "{25757F7D-9FA4-45F1-B54D-160B26A574B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto21ForEach", "21ForEach\Projeto21ForEach.csproj", "{25757F7D-9FA4-45F1-B54D-160B26A574B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22List", "22List\22List.csproj", "{74C38A4F-244E-4943-9672-456E7FFB16CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto22List", "22List\Projeto22List.csproj", "{74C38A4F-244E-4943-9672-456E7FFB16CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto23Exercicio07", "23Exercicio07\Projeto23Exercicio07.csproj", "{5A04E739-801F-499F-93CF-EB5B639FF718}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto24Matrizes", "Projeto24Matrizes\Projeto24Matrizes.csproj", "{60D2DA99-3EF8-4500-8BC0-07F3210422F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto25Exercicio08", "Projeto25Exercicio08\Projeto25Exercicio08.csproj", "{738CF52A-7897-4CA8-BE8B-24FAAB8D96FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +153,18 @@ Global
 		{74C38A4F-244E-4943-9672-456E7FFB16CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74C38A4F-244E-4943-9672-456E7FFB16CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74C38A4F-244E-4943-9672-456E7FFB16CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A04E739-801F-499F-93CF-EB5B639FF718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A04E739-801F-499F-93CF-EB5B639FF718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A04E739-801F-499F-93CF-EB5B639FF718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A04E739-801F-499F-93CF-EB5B639FF718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D2DA99-3EF8-4500-8BC0-07F3210422F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D2DA99-3EF8-4500-8BC0-07F3210422F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D2DA99-3EF8-4500-8BC0-07F3210422F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D2DA99-3EF8-4500-8BC0-07F3210422F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{738CF52A-7897-4CA8-BE8B-24FAAB8D96FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{738CF52A-7897-4CA8-BE8B-24FAAB8D96FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{738CF52A-7897-4CA8-BE8B-24FAAB8D96FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{738CF52A-7897-4CA8-BE8B-24FAAB8D96FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
