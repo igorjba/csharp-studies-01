@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _17Exercicio05
+namespace Projeto17Exercicio06
 {
     internal class Rent
     {

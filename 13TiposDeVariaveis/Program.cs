@@ -1,9 +1,4 @@
-﻿using _13TiposDeVariaveis;
-using System;
-using System.Drawing;
-using System.Net.Http.Headers;
-
-namespace MyApp // Note: actual namespace depends on the project name.
+﻿namespace Projeto13TiposDeVariaveis
 {
     internal class Program
     {
@@ -31,7 +26,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             y = x;
 
             //mesmo sendo struct, é necessário inicializar
-            _13TiposDeVariaveis.Point p;
+            Point p;
             //dessa forma, inserindo os valores
             p.X = 10;
             p.Y = 10;
@@ -39,7 +34,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.WriteLine(p);
 
             //ou dessa forma colocando new (geralmente não precisa desse _13TiposDeVariaveis, é só o Point() mesmo).
-            p = new _13TiposDeVariaveis.Point();
+            p = new Point();
             Console.WriteLine(p);
 
             //valores padrão:

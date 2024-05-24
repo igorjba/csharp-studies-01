@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace Exercicio04 // Note: actual namespace depends on the project name.
+namespace Projeto05Exercicio04
 {
     internal class Program
     {

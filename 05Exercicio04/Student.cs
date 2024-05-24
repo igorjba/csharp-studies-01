@@ -1,4 +1,4 @@
-﻿namespace Exercicio04
+﻿namespace Projeto05Exercicio04
 {
     internal class Student
     {

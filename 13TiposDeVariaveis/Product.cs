@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _13TiposDeVariaveis
+﻿namespace Projeto13TiposDeVariaveis
 {
     internal class Product
     {

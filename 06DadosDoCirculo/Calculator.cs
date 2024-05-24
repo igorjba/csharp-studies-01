@@ -1,4 +1,4 @@
-﻿namespace DadosDoCirculoV1
+﻿namespace Projeto06DadosDoCirculoV1
 {
     internal class Calculator
     {

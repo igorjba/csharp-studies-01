@@ -1,7 +1,6 @@
-﻿using System;
-using System.Globalization;
+﻿using System.Globalization;
 
-namespace LadosDoTriangulo
+namespace Projeto02LadosDoTriangulo
 {
     internal class Program
     {

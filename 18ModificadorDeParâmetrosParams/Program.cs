@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyApp
+namespace Projeto18ModificadorDeParametrosParams
 {
     internal class Program
     {

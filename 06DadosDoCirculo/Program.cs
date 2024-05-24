@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace DadosDoCirculoV1
+namespace Projeto06DadosDoCirculoV1
 {
     internal class Program
     {

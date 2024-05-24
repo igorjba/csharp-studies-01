@@ -1,5 +1,5 @@
 ﻿
-namespace _13TiposDeVariaveis
+namespace Projeto13TiposDeVariaveis
 {
     struct Point
     {

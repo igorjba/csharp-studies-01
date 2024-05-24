@@ -1,7 +1,4 @@
-﻿using System;
-using System.Globalization;
-
-namespace Produto
+﻿namespace Projeto09Encapsulamento
 {
     internal class Program
     {

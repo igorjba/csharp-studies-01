@@ -1,6 +1,6 @@
-﻿using System;
-using System.Globalization;
-namespace MyApp // Note: actual namespace depends on the project name.
+﻿using System.Globalization;
+
+namespace Projeto15Exemplo01
 {
     internal class Program
     {

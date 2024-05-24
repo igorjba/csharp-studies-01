@@ -1,7 +1,7 @@
 ﻿using Exercicio02;
 using System.Globalization;
 
-namespace Esideercicio02
+namespace Projeto03Exercicio02
 {
     internal class Program
     {

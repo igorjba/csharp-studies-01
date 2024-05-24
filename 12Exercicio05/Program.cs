@@ -1,7 +1,6 @@
-﻿using System;
-using System.Globalization;
+﻿using System.Globalization;
 
-namespace Bank
+namespace Projeto12Exercicio05
 {
     internal class Program
     {

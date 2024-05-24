@@ -1,4 +1,4 @@
-﻿namespace Exercicio02
+﻿namespace Projeto03Exercicio02
 {
     internal class Retangulo
     {

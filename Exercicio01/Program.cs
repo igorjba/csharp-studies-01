@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace Exercicio01
+namespace Projeto01Exercicio01
 {
     internal class Program
     {

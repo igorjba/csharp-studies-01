@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace Produto
+namespace Projeto11AutoProperties
 {
     internal class Product
     {   

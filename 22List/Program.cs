@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using static System.Net.Mime.MediaTypeNames;
 
-namespace MyApp
+namespace Projeto22List
 {
     internal class Program
     {

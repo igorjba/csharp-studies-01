@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace Produto
+namespace Projeto08ProdutoThis
 {
     internal class Product
     {   //A classe define todos os dados que o objeto deve ter

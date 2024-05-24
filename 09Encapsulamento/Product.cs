@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace Produto
+namespace Projeto09Encapsulamento
 {
     internal class Product
     {   //atributos privados começam com underline seguido de letra minúscula.

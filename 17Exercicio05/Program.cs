@@ -1,8 +1,8 @@
-﻿using _17Exercicio05;
+﻿using Projeto17Exercicio06;
 using System;
 using System.Globalization;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace Projeto17Exercicio06
 {
     internal class Program
     {

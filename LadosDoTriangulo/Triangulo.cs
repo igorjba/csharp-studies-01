@@ -1,4 +1,4 @@
-﻿namespace LadosDoTriangulo
+﻿namespace Projeto02LadosDoTriangulo
 {
     internal class Triangulo
     {
